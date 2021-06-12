@@ -11,6 +11,10 @@
 
 `dillo --geometry {{width}}x{{height}}+{{x_position}}+{{y_position}}`
 
+- Open Dillo at a specific URL:
+
+`dillo {{duckduckgo.com}}`
+
 - Open Dillo and show a file or directory:
 
 `dillo {{path/to/file_or_directory}}`
